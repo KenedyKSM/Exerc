@@ -15,3 +15,7 @@ public class Main {
     
     }
 }
+
+/*
+ Escreva um codigo que receba o nome e ano de nascimento de alguem e imprima na tela a seguinte mensagem: "Ola 'fulano' voce tem 'x' anos"
+ */
